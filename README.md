@@ -78,7 +78,7 @@ While working on this project, I learned how to:
 
 ## Project Files
 
-- `E_Commerce_Dashboard_Project_FINAL_FIXED.xlsx` – Excel project
+- `E_Commerce_Dashboard_Project_FIXED.xlsx` – Excel project
 - `README.md` – Project details
 
 ## Author
